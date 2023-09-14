@@ -6,8 +6,8 @@
 📚 | Análise Desenvolvimento de Sistemas / Universidade Paulista - UNIP 
 <h3></h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafahthomaz14&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafahthomaz14&theme=blue_navy&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafahthomaz14&layout=compact&theme=blue_navy)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
