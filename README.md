@@ -6,7 +6,17 @@
 📚 | Análise Desenvolvimento de Sistemas / Universidade Paulista - UNIP 
 <h3></h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafahthomaz14&layout=compact&theme=blue_navy)
+
+<a href="https://github.com/rafahthomaz14/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rafahthomaz14&theme=blue_navy&hide_rank=true" />
+</a>
+<a href="https://github.com/rafahthomaz/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafahthomaz14&layout=compact&langs_count=8&card_width=320&theme=blue_navy" />
+</a>
+
+
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
