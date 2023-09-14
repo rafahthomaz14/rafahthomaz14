@@ -3,8 +3,11 @@
 <h1> Olá, meu nome é Rafael Thomaz !</h1>
 <h2> Formação acadêmica:</h2>
 📚 | Técnico em Desenvolvimento de Sistemas <br>
-📚 | Análise Desenvolvimento de Sistemas / Universidade Paulista - UNIP
+📚 | Análise Desenvolvimento de Sistemas / Universidade Paulista - UNIP 
+<h3></h3>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafahthomaz14&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
@@ -22,3 +25,4 @@
   <a href="https://www.linkedin.com/in/rafael-thomaz-92559920a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
