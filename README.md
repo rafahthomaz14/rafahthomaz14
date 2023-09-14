@@ -35,3 +35,4 @@
   
 </div>
 
+![snake gif](https://github.com/rafahthomaz14/rafahthomaz14/blob/output/github-contribution-grid-snake.svg)
