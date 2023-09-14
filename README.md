@@ -1,4 +1,9 @@
-## Olá meu nome é Rafael Thomaz !
+
+
+<h1> Olá, meu nome é Rafael Thomaz !</h1>
+<h2> Formação acadêmica:</h2>
+📚 | Técnico em Desenvolvimento de Sistemas <br>
+📚 | Análise Desenvolvimento de Sistemas / Universidade Paulista - UNIP
 
 
 <div style="display: inline_block"><br>
