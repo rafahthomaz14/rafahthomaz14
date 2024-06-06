@@ -15,7 +15,9 @@
   <img align="center" alt="Rafa-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
 
-  
+## #30NitesOfCode: [PET Codedex.IO](https://www.codedex.io/@rafaelhth50855/30-nites-of-code)
+    
+  ![@rafaelhth50855 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=rafaelhth50855)
   ##
  
 <div> 
