@@ -15,10 +15,6 @@
   <img align="center" alt="Rafa-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
 
-## #30NitesOfCode: [PET Codedex.IO](https://www.codedex.io/@rafaelhth50855/30-nites-of-code)
-    
-  ![@rafaelhth50855 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=rafaelhth50855)
-  ##
  
 <div> 
   <a href="https://www.instagram.com/rafa_thomaz14/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
