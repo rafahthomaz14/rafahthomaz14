@@ -1,15 +1,6 @@
 
 # 👋 Olá, sou Rafael Thomaz 
 
-Atualmente, estou cursando o 3º semestre de **Análise e Desenvolvimento de Sistemas** na **Universidade Paulista (UNIP)**, campus de Araraquara, e possuo formação técnica em **Desenvolvimento de Sistemas** pela **Etec Dr. Adail Nunes da Silva**.
-
-## 🎓 **Formação Acadêmica**
-
-- **Técnico em Desenvolvimento de Sistemas** - *ETEC de Taquaritinga*  
-
-- **Análise e Desenvolvimento de Sistemas** - *UNIP Araraquara*  
-  Atualmente no 3º semestre.
-
 ## 💻 **Conhecimentos e Competências**
 
 - **Desenvolvimento Web**: ASP.NET, HTML, CSS, Bootstrap
