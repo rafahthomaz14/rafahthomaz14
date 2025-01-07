@@ -6,7 +6,7 @@
 **Análise Desenvolvimento de Sistemas** \
 [*Universidade Paulista UNIP*](https://www.unip.br/)  \
 Linguagens & Tecnologias: `C#`, `SQLite`,`MySQL`,`HTML`,`CSS`,`JavaScript` .\
-----------------------------------------------------------------------------<br>
+<br>
 **Curso Técnico Desenvolvimento de Sistemas** \
 [*Etec Doutor Adail Nunes da Silva*](https://www.cps.sp.gov.br/etecs/etec-dr-adail-nunes-da-silva/)  \
 Linguagens & Tecnologias: `C#`, `SQLServer`. <br><br>
