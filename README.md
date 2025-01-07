@@ -2,15 +2,6 @@
 ## Olá, sejam bem vindos ao meu GitHub 👋 !!
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-### 📚 Formação: 
-**Análise Desenvolvimento de Sistemas** \
-[*Universidade Paulista UNIP*](https://www.unip.br/)  \
-Linguagens & Tecnologias: `C#`, `SQLite`,`MySQL`,`HTML`,`CSS`,`JavaScript` .\
-<br>
-**Curso Técnico Desenvolvimento de Sistemas** \
-[*Etec Doutor Adail Nunes da Silva*](https://www.cps.sp.gov.br/etecs/etec-dr-adail-nunes-da-silva/)  \
-Linguagens & Tecnologias: `C#`, `SQLServer`. <br><br>
-
 ### 💼 Experiência de trabalho:
 
 [<img align="left" height="94px" width="94px" alt="Compass" src="https://media.licdn.com/dms/image/C4E22AQGeOInu0o1uZQ/feedshare-shrink_800/0/1636143287890?e=2147483647&v=beta&t=pA7d85Ab46qbZFNaOZj7DWUz5gJ6fwBNZzqlPWEe3Is"/>](https://compass.uol/en/home/)
