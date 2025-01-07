@@ -4,7 +4,7 @@
 ## 📫 **Como me encontrar**
 
 - **LinkedIn**: https://www.linkedin.com/in/rafael-thomaz-92559920a/ 
-- **E-mail**: rafaelthomaz466@gmail.com
+- **E-mail**: rafael.thomaz005@gmail.com
 - **Instagram**: https://www.instagram.com/rafa_thomaz14/
   
 <div style="display: inline_block"><br>
