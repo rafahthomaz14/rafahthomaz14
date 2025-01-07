@@ -14,7 +14,7 @@ Linguagens & Tecnologias: `Python`, `AWS`.\
 
 ### 📫 Como me encontrar:
 
-- **LinkedIn**: https://www.linkedin.com/in/rafael-thomaz-92559920a/ 
+- **LinkedIn**: [Rafael Thomaz](https://www.linkedin.com/in/rafael-thomaz-92559920a/)
 - **E-mail**: rafael.thomaz005@gmail.com
 <br>
 
