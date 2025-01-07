@@ -8,7 +8,7 @@
 **AWS Cloud Data Engineering** \
 [*Compass.UOL*](https://compass.uol/en/home/)  • Estágio \
 Linguagens & Tecnologias: `Python`, `AWS`.\
-<br><br>
+<br>
 
 ### 📫 Como me encontrar:
 
