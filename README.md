@@ -1,13 +1,6 @@
 
 # 👋 Olá, sou Rafael Thomaz 
 
-## 💻 **Conhecimentos e Competências**
-
-- **Desenvolvimento Web**: ASP.NET, HTML, CSS, Bootstrap
-- **Linguagens de Programação**: C#, JavaScript, React
-- **Banco de Dados**: SQLite, MySQL, Entity Framework Core, SQLServer
-- **Ferramentas e IDEs**: Visual Studio, Visual Studio Code, Git
-
 ## 📫 **Como me encontrar**
 
 - **LinkedIn**: https://www.linkedin.com/in/rafael-thomaz-92559920a/ 
