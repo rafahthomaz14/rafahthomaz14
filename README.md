@@ -2,7 +2,14 @@
 ## Olá, sejam bem vindos ao meu GitHub 👋 !!
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-****<br><br>
+### 📚 Formação: 
+**Análise Desenvolvimento de Sistemas** \
+[*Universidade Paulista UNIP*](https://www.unip.br/)  \
+Linguagens & Tecnologias: `C#`, `SQLite`,`MySQL`,`HTML`,`CSS`,`JavaScript` .\
+----------------------------------------------------------------------------<br>
+**Curso Técnico Desenvolvimento de Sistemas** \
+[*Etec Doutor Adail Nunes da Silva*](https://www.cps.sp.gov.br/etecs/etec-dr-adail-nunes-da-silva/)  \
+Linguagens & Tecnologias: `C#`, `SQLServer`. <br><br>
 
 ### 💼 Experiência de trabalho:
 
@@ -10,7 +17,7 @@
 **AWS Cloud Data Engineering** \
 [*Compass.UOL*](https://compass.uol/en/home/)  • Contract \
 Linguagens & Tecnologias: `Python`, `AWS`.\
-<br>
+<br><br>
 
 ### 📫 Como me encontrar:
 
