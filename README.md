@@ -4,7 +4,9 @@
 ### 📫 Como me encontrar:
 
 - **Linkedin**: [Rafael Thomaz](https://www.linkedin.com/in/rafael-thomaz-92559920a/)
+- **Portifólio**: [Rafael Thomaz](https://portifolio-rafa-thomaz.netlify.app/) 
 - **E-mail**: rafael.thomaz005@gmail.com
+
 <br><br><br>
 
 [<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>]()
