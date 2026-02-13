@@ -4,7 +4,7 @@
 ### 📫 Como me encontrar:
 
 - **Linkedin**: [Rafael Thomaz](https://www.linkedin.com/in/rafael-thomaz-92559920a/)
-- **Portifólio**:[Rafael Thomaz](https://portifolio-rafa-lyart.vercel.app/)
+- **Portifólio**:[Rafael Thomaz](https://portifolio-rafa-zeta.vercel.app/)
 - **E-mail**: rafael.thomaz005@gmail.com
 
 ### 🛠️ Tecnologias e Linguagens
